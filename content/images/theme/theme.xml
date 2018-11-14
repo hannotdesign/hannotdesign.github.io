@@ -1,4 +1,4 @@
-<bookinfo bgColor="#3D4247 " bgImage="" bgPosition="center" windowColor="#2A2A2A " themeName="Default">
+<bookinfo bgColor="#383D49 " bgImage="" bgPosition="center" windowColor="#2A2A2A " themeName="Default">
 	<leftmenu showTabBackground="true">
 		<issues visible="true" icon="library.png"/>
 		<toc visible="true" icon="toc.png"/>
